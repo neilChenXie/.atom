@@ -1,0 +1,16 @@
+"*":
+  "exception-reporting":
+    userId: "c97b6869-ca8c-6ce1-8667-0836702eca06"
+  welcome:
+    showOnStartup: false
+  core:
+    themes: [
+      "atom-dark-ui"
+      "solarized-dark-syntax"
+    ]
+  editor:
+    invisibles: {}
+    confirmCheckoutHeadRevision: false
+    tabLength: 4
+  "one-light-ui": {}
+  term2: {}

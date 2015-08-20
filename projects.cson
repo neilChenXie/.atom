@@ -1,0 +1,30 @@
+".atom":
+  title: ".atom"
+  group: "Config"
+  paths: [
+    "/Users/chen/.atom"
+  ]
+".vim":
+  title: ".vim"
+  group: "Config"
+  paths: [
+    "/Users/chen/.vim"
+  ]
+Python:
+  title: "python"
+  group: "Language"
+  paths: [
+    "/Users/chen/Python"
+  ]
+ChenNode:
+  title: "ChenNode"
+  group: "Web"
+  paths: [
+    "/Users/chen/Dropbox/Project/ChenNode"
+  ]
+ChenBlog:
+  title: "ChenBlog"
+  group: "Web"
+  paths: [
+    "/Users/chen/Dropbox/Blog"
+  ]
