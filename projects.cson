@@ -2,29 +2,29 @@
   title: ".atom"
   group: "Config"
   paths: [
-    "/Users/chen/.atom"
+    "/home/chen/.atom"
   ]
 ".vim":
   title: ".vim"
   group: "Config"
   paths: [
-    "/Users/chen/.vim"
+    "/home/chen/.vim"
   ]
 Python:
   title: "python"
   group: "Language"
   paths: [
-    "/Users/chen/Python"
+    "/home/chen/Python"
   ]
 ChenNode:
   title: "ChenNode"
   group: "Web"
   paths: [
-    "/Users/chen/Dropbox/Project/ChenNode"
+    "/home/chen/Dropbox/Project/ChenNode"
   ]
 ChenBlog:
   title: "ChenBlog"
   group: "Web"
   paths: [
-    "/Users/chen/Dropbox/Blog"
+    "/home/chen/Dropbox/Blog"
   ]
