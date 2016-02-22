@@ -1,18 +1,19 @@
 "*":
-  "exception-reporting":
-    userId: "c97b6869-ca8c-6ce1-8667-0836702eca06"
-  welcome:
-    showOnStartup: false
+  "atom-ternjs": {}
   core:
     themes: [
       "atom-dark-ui"
       "solarized-dark-syntax"
     ]
   editor:
-    invisibles: {}
     confirmCheckoutHeadRevision: false
+    invisibles: {}
     tabLength: 4
+  "exception-reporting":
+    userId: "c97b6869-ca8c-6ce1-8667-0836702eca06"
+  "git-plus": {}
   "one-light-ui": {}
   term2: {}
-  "atom-ternjs": {}
   "vim-surround": {}
+  welcome:
+    showOnStartup: false

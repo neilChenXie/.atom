@@ -10,17 +10,11 @@
   paths: [
     "/Users/chen/.vim"
   ]
-Python:
-  title: "python"
-  group: "Language"
-  paths: [
-    "/Users/chen/Python"
-  ]
 ChenNode:
   title: "ChenNode"
   group: "Web"
   paths: [
-    "/Users/chen/Dropbox/Project/ChenNode"
+    "/Users/chen/Dropbox/Project/ChenNode/ChenNode_v2"
   ]
 ChenBlog:
   title: "ChenBlog"
